@@ -8,3 +8,9 @@
  */
 
 require_once 'output.php';
+require_once 'Actions/ActionFirst.php';
+
+
+$obj = new ActionFirst();
+
+
