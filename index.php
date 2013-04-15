@@ -12,6 +12,6 @@ require_once 'Actions/ActionFirst.php';
 
 
 $obj = new ActionFirst();
-
-// coment // certy
+echo 12345;
+// coment // certy ////////////
 
